@@ -1,2 +1,2 @@
 # Test
-This is a testing env! 
+This is a testing environment
